@@ -19,8 +19,5 @@
         </rule>
       </rules>
     </rewrite>
-        <handlers>
-            <add name="php-7.2.8-nts-Win32-VC15-x64" path="*.php" verb="*" modules="FastCgiModule" scriptProcessor="E:\PHP\php-7.2.8-nts-Win32-VC15-x64\php-cgi.exe" resourceType="File" />
-        </handlers>
   </system.webServer>
 </configuration>
